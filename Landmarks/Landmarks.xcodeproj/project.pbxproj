@@ -98,11 +98,10 @@
 		014FDBD22856C158008E18E4 /* Landmarks */ = {
 			isa = PBXGroup;
 			children = (
+				014FDBD72856C15B008E18E4 /* Assets.xcassets */,
 				014FDBD32856C158008E18E4 /* LandmarksApp.swift */,
 				014FDBD52856C158008E18E4 /* ContentView.swift */,
-				014FDBD72856C15B008E18E4 /* Assets.xcassets */,
-				014FDBFF28570F45008E18E4 /* CircleImage.swift */,
-				014FDC0128571113008E18E4 /* MapView.swift */,
+				014FDC0528571579008E18E4 /* Custom Views */,
 				014FDBD92856C15B008E18E4 /* Preview Content */,
 			);
 			path = Landmarks;
@@ -131,6 +130,15 @@
 				014FDBF02856C15B008E18E4 /* LandmarksUITestsLaunchTests.swift */,
 			);
 			path = LandmarksUITests;
+			sourceTree = "<group>";
+		};
+		014FDC0528571579008E18E4 /* Custom Views */ = {
+			isa = PBXGroup;
+			children = (
+				014FDBFF28570F45008E18E4 /* CircleImage.swift */,
+				014FDC0128571113008E18E4 /* MapView.swift */,
+			);
+			path = "Custom Views";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
