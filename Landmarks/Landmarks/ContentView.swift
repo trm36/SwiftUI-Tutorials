@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Landmarks
 //
-//  Created by Taylor on 6/12/22.
+//  Created by Taylor on 12 June 2022.
 //
 
 import SwiftUI

@@ -2,7 +2,7 @@
 //  LandmarksUITests.swift
 //  LandmarksUITests
 //
-//  Created by Taylor on 6/12/22.
+//  Created by Taylor on 12 June 2022.
 //
 
 import XCTest
